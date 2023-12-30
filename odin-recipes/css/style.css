@@ -1,0 +1,26 @@
+.main{
+    background-image: url("/img/scratchedlightwoodbackground.jpg");
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.recipes{
+    background-image: url("/img/scratchedlightwoodbackground.jpg");
+}
+
+.selection{
+    background-image: url("/img/pattern-black-square-wallpaper-preview.jpg");
+    border-style: solid;
+    border-color: white;
+    a:link{
+        color: yellow;
+    }
+    a:visited{
+        color: yellow;
+    }
+    a:hover{
+        color: white;
+    }
+}
+
